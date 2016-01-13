@@ -1,0 +1,8 @@
+﻿<snippet>
+	<content><![CDATA[
+placeholder="$1"
+]]></content>
+	<tabTrigger>pla</tabTrigger>
+	<!-- <scope>source.jade</scope> -->
+	<description>placeholder="" |jade</description>
+</snippet>
